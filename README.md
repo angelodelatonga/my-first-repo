@@ -1,32 +1,13 @@
-# This is a large heading
+# Angelo dela Tonga
 
-## This is a smaller heading
+### INTRODUCTION
 
-And as **imagination** bodies forth, 
-The forms of things "unknown*, the poet's pen, 
-Turns them to shapes and gives to airy nothing, 
-A local *habitation* and a *name**.
+I am a molecular microbiologist working at the National Institutes of Health UP Manila
 
-- This is 
-- an ordered
-- list
+### ADDRESS
 
+138 E Manalo St. Concepcion I Marikina City
 
-1. This is
-2. an ordered
-3. list
+### FOOD 
 
-Here is 'some code' in the middle of a sentence.
-
-```
-This is 
-a block
-of code
-```
-
-Here is how you make ([a link](https://www.wikipedia.org/)).
-
-(![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg))
-
-nano README.md
-
+Anything that Kaye Loves to eat
